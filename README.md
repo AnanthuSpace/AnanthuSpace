@@ -7,7 +7,7 @@ I'm a self-taught MERN Stack developer with a passion for learning and adapting 
 - 🌍 I'm based in Alappuzha, Cherthala
 - 🖥️ See my portfolio at [My website](http://ananthuspace.netlify.app/)
 - ✉️ You can contact me at [ananthumohan368@gmail.com](mailto:ananthumohan368@gmail.com)
-- 🚀 I'm currently working on [User_Management_System](https://github.com/AnanthuSpace/VuePix)
+- 🚀 I'm currently working on [VuePix](https://github.com/AnanthuSpace/VuePix)
 - 🧠 I'm learning MERN
 
 ### Skills
