@@ -2,7 +2,7 @@
 
 ## Web Developer
 
-I'm a self-taught MERN Stack developer with a passion for learning and adapting to new technologies. I enjoy tackling challenging projects that require strong problem-solving skills. I'm proficient in MongoDB, Express.js and Node.js, and I'm always eager to explore the latest frameworks and technologies. I'm a good communicator and thrive in collaborative team environments. I'm excited to contribute my skills and expertise to drive the success of your projects.
+A passionate full stack mern developer from India
 
 - 🌍 I'm based in Alappuzha, Cherthala
 - 🖥️ See my portfolio at [My website](http://ananthuspace.netlify.app/)
