@@ -2,7 +2,7 @@
 
 ## Web Developer
 
-A passionate full stack mern developer from India
+A passionate full stack mern developer 
 
 - 🌍 I'm based in Alappuzha, Cherthala
 - 🖥️ See my portfolio at [My website](http://ananthuspace.netlify.app/)
