@@ -11,12 +11,11 @@
 
 - 📫 How to reach me **ananthumohan368@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bgcZLIFKgUUSg39g1wjln2l5yX11ieoA/view?usp=drive_link](https://drive.google.com/file/d/1bgcZLIFKgUUSg39g1wjln2l5yX11ieoA/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ananthu mohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananthu mohan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ananthuspace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ananthuspace" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/ananthu mohan](https://www.linkedin.com/in/ananthu-mohan-b3b1021a1/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananthu mohan" height="30" width="40" /></a>
+<a href="[https://www.leetcode.com/ananthuspace](https://leetcode.com/u/AnanthuSpace/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ananthuspace" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
