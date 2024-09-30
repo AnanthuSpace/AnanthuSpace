@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ananthuspace" alt="ananthuspace" /></a> </p>
 
-- 🔭 I’m currently working on [FitFusion](https://github.com/AnanthuSpace/fitfusion-server)
+- 🔭 I’m currently working on  [FitFusion Client](https://github.com/AnanthuSpace/fitfusion-client), [FitFusion Server](https://github.com/AnanthuSpace/fitfusion-server)
 
 - 🌱 I’m currently learning **MERN**
 
